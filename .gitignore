@@ -1,9 +1,7 @@
-.env
 .env.testing
 .idea
 .php_cs.cache
 .phpunit.result.cache
-.vscode
 .vagrant
 *.hot
 /stubs
@@ -33,3 +31,4 @@ node_modules/
 /test-results/
 /blob-report/
 /playwright/.cache/
+config.bat
